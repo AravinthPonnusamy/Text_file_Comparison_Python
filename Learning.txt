@@ -1,0 +1,12 @@
+Python is very powerful when it comes to do a file comparison 
+Some tests i did
+    - 1.5 gb file comparison takes 1.5 minutes
+    - 130 mb files takes about 10 seconds
+
+When i tried to run the python for 1.5 gb initially, i got a memory error
+Upon investigation i found that python 32-bit for some reason limits itself to 4GB 
+That much of memory is not enough, so i had to resinstall my python for 64 bit 
+Note: When installing python add that to the environment variable path else 
+it will not reflect when you try to check that from cmd prompt.
+
+Clearly, python is ages ahead of the rest.
