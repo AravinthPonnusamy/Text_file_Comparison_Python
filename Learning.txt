@@ -9,4 +9,6 @@ That much of memory is not enough, so i had to resinstall my python for 64 bit
 Note: When installing python add that to the environment variable path else 
 it will not reflect when you try to check that from cmd prompt.
 
-Clearly, python is ages ahead of the rest.
+Clearly, python is ages ahead of the rest. Excited!
+
+The file 32_64_python will let you know if your python is 32-bit or 64-bit
